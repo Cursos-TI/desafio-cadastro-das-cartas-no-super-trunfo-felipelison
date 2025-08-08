@@ -4,7 +4,7 @@ int main (){
     
     int populacao, populacao2, turismo, turismo2;
     float area, area2, pib, pib2;
-    char estado[2], estado2[2], codigoCarta[3], codigoCarta2[3], cidade[20], cidade2[20];
+    char estado[2], estado2[2], codigoCarta[4], codigoCarta2[4], cidade[20], cidade2[20];
     //CARTA 1
     printf("Carta 1\n");
 
