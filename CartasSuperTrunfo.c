@@ -105,4 +105,5 @@ int main (){
     comparar = SuperPoder > SuperPoder2;
     printf("Super Poder: %d\n", comparar);
 
+    return 0;
 }
