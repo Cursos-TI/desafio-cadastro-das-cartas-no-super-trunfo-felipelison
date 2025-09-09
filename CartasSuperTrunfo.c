@@ -7,7 +7,7 @@ int main (){
     char estado[3], estado2[3], codigoCarta[5], codigoCarta2[5], cidade[21], cidade2[21];
     float area, area2, pib, pib2, pibpercapita, densidade, pibpercapita2, densidade2, SuperPoder, SuperPoder2;
 
-    // CARTA 1
+    //CARTA 1
     printf("Carta 1\n");
     printf("Estado (Uma letra de 'A' a 'H'): ");
     scanf("%s", estado);
@@ -24,7 +24,7 @@ int main (){
     printf("Número de Pontos Turísticos: ");
     scanf("%d", &turismo);
 
-    // CARTA 2
+    //CARTA 2
     printf("\nCarta 2\n");
     printf("Estado: ");
     scanf("%s", estado2);
