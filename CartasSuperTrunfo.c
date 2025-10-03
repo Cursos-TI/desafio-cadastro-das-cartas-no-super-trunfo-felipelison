@@ -8,6 +8,7 @@ int main (){
     float area, area2, pib, pib2, pibpercapita, densidade, pibpercapita2, densidade2, SuperPoder, SuperPoder2;
 
     //CARTA 1
+    
     printf("Carta 1\n");
     printf("Estado (Uma letra de 'A' a 'H'): ");
     scanf("%s", estado);
